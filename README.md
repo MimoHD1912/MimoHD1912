@@ -1,0 +1,4 @@
+- 👋 Hi there, I’m @MimoHD1912!
+- 👀 I’m passionate about tech, innovation, travel, finance, and economics.
+- 🌱 I’m currently learning Python and R.
+- 💞️ Fun fact about me: I'm a coffee afficionado, always looking for the best brew in town!
